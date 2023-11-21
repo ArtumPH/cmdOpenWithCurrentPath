@@ -15,4 +15,4 @@ other ways/其他方法
 -
 Simply input cmd into file address bar.
 
-直接在文件地址栏输入cmd就行了。
+只需在文件地址栏输入cmd即可。
