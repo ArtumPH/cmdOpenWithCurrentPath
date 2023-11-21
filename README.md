@@ -11,3 +11,8 @@ cd /d %~dp0
 
 start cmd
 
+other methods/其他方法
+-
+Simply input cmd into file address bar.
+
+直接在文件地址栏输入cmd就行了。
